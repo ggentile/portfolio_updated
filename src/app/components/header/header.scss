@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    position: absolute;
+    display: flex;
+    left: 85%;
+    margin-right: 10%;
+}
+
+#portuguese-page {
+    border: none;
+    color: #000000;
+    background-color: white;
+    font-weight: 800;
+    font-size: 16px;
+    padding: 14px 18px 18px 2px;
+}
+
+#english-page {
+    background-color: white;
+    border: none;
+    color: #a1a1a1;
+    font-weight: 800;
+    font-size: 16px;
+    padding: 14px 18px 18px 2px;
+}

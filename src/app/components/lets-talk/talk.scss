@@ -1,0 +1,45 @@
+.main-talk {
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.lets-talk {
+    padding-right: 70px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.button-talk {
+    display: flex;
+    margin-right: 5%;
+    gap: 200px;
+    justify-content: center;
+}
+
+#schedule-call {
+    background-color: #000000;
+    color: #d9d9d9;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 5px;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 800;margin-top: 20px;
+    text-align: center;
+    box-shadow: var(--bg-button);
+    margin-top: 20px;
+}
+
+#send-mail {
+    background-color: #f9fafb;
+    color: #000000;
+    padding: 12px 22px;
+    border: none;
+    border-radius: 5px;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 800;
+    margin-top: 20px;
+}

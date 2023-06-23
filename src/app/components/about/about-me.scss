@@ -1,0 +1,29 @@
+.main-about{
+    margin-top: 60px;
+    display: flex;
+}
+
+.my-skills {
+    background-color: #f9fafb;
+    width: 20%;
+    margin-right: 10%;
+    padding: 2.2rem 4.4rem;
+}
+
+.my-description {
+    width: 70%;
+}
+
+.myCV {
+    background-color: #000000;
+    color: #d9d9d9;
+    border: none;
+    box-shadow: var(--bg-button);
+    border-radius: 5px;
+    padding: 12px 20px;
+}
+
+.myCV:hover{
+    transition: 0.7s;
+    box-shadow: 0 0 0 4px #5a01a7;
+}
